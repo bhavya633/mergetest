@@ -1,2 +1,2 @@
 # mergetest
-hello my world
+Hello hi
